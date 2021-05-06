@@ -1,0 +1,25 @@
+[
+{
+    "id":1,
+    "title":"The Walking",
+    "desc":"Adaptarse o morir. Perfectamente esta podría ser la frase de presentación de esta ficción basada en la serie de cómics homónimo de Robert Kirkman, Tony Moore y Charlie Adlard.",
+    "img" : "./images/wd.jpg"
+},{
+    "id":2,
+    "title":"Friends",
+    "img" : "./images/f.jpg",
+    "desc":"Solo con escuchar los primeros acordes de la canción I´ll Be There for You de la banda The Rembrandts inmediatamente aparecen en la memoria de muchos espectadores, de generaciones distintas, las peripecias de este grupo de amigos neoyorquinos que se instalaron en miles de hogares durante 10 años."
+},{
+    "id":4,
+    "title":"Friends",
+    "img" : "./images/f.jpg",
+    "desc":"Solo con escuchar los primeros acordes de la canción I´ll Be There for You de la banda The Rembrandts inmediatamente aparecen en la memoria de muchos espectadores, de generaciones distintas, las peripecias de este grupo de amigos neoyorquinos que se instalaron en miles de hogares durante 10 años."
+},{
+    "id":3,
+    "title":"Friends",
+    "img" : "./images/f.jpg",
+    "desc":"Solo con escuchar los primeros acordes de la canción I´ll Be There for You de la banda The Rembrandts inmediatamente aparecen en la memoria de muchos espectadores, de generaciones distintas, las peripecias de este grupo de amigos neoyorquinos que se instalaron en miles de hogares durante 10 años."
+}
+
+
+]
